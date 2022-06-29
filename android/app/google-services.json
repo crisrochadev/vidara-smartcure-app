@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "360152830930",
+    "project_id": "smartcure-vdr",
+    "storage_bucket": "smartcure-vdr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360152830930:android:f42239351cc0862ca36e0b",
+        "android_client_info": {
+          "package_name": "com.vdrsmartcure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360152830930-d81ubvu9pbv0kt4f0halu7eosaj1t069.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vdrsmartcure",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "360152830930-ceai8341umpfuck9u0ajd0c5aeaqga6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpYMrfwRjkaPangmkQGk_Px-YGzkVJSfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360152830930-ceai8341umpfuck9u0ajd0c5aeaqga6o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
